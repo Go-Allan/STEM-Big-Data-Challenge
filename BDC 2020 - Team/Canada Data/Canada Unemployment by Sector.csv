@@ -1,0 +1,33 @@
+﻿"Unemployment by type of work sought and search method, monthly, unadjusted for seasonality (x 1,000) 1",,,,,
+Monthly,,,,,
+Table: 14-10-0058-01 (formerly CANSIM 282-0049),,,,,
+"Geography: Canada, Province or territory",,,,,
+,,,,,
+,Canada,,,,
+,Both sexes,,,,
+,15 years and over,,,,
+Type of work sought and search method3,Dec-19,Jan-20,Feb-20,Mar-20,Apr-20
+,Persons,,,,
+Total unemployed,"1,033.00","1,167.60","1,178.40","1,642.80","2,496.50"
+Future job starter,28.1,44.5,29.6,46.7,81.3
+On temporary layoff,49,74.3,57.2,549.8,"1,336.30"
+Looked for full-time work,717.3,753.2,800.4,770.7,852.5
+Looked for part-time work,238.6,295.6,291.2,275.5,226.5
+Looked-checked with employers directly,389.5,422.1,479.2,522.4,431.7
+Looked-used public employment agency,125.6,130.3,172.1,119.9,94.6
+Looked-looked at job ads,652.8,700.5,722.2,758.3,823.3
+Looked-checked with private employment agency,86.1,70.7,104.1,128.9,118.8
+Looked-checked with union,22.3,36,34.3,33.4,32.3
+Looked-checked with friends or relatives,226.7,261.8,289.8,306.1,303
+Looked-placed or answered ads,360.1,395.2,383,461.3,419.1
+Looked-used other methods,123.4,144.4,161.8,139.5,111.1
+,,,,,
+Symbol legend:,,,,,
+,,,,,
+Footnotes:,,,,,
+1,"To ensure respondent confidentiality, estimates below a certain threshold are suppressed. For Canada, Quebec, Ontario, Alberta and British Columbia suppression is applied to all data below 1,500. The threshold level for Newfoundland and Labrador, Nova Scotia, New Brunswick, Manitoba and Saskatchewan is 500, while in Prince Edward Island, estimates under 200 are supressed. For census metropolitan areas (CMAs) and economic regions (ERs), use their respective provincial suppression levels mentioned above. Estimates are based on smaller sample sizes the more detailed the table becomes, which could result in lower data quality.",,,,
+2,Excluding the territories.,,,,
+3,Methods of job search used identifies the various methods of job search activities undertaken by unemployed persons in the four weeks prior to the reference week. Respondents may report more than one method of job search.,,,,
+,,,,,
+"How to cite: Statistics Canada. Table 14-10-0058-01 Unemployment by type of work sought and search method, monthly, unadjusted for seasonality (x 1,000)",,,,,
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410005801,,,,,

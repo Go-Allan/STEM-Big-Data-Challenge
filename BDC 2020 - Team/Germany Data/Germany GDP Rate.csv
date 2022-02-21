@@ -1,0 +1,12 @@
+﻿pecification,Unit,2019,2019,,,,2020
+,,,Q1,Q2,Q3,Q4,Q1
+1: Change on the previous year or the same quarter of the preceding year.,,,,,,,
+2: Change on the previous year or previous quarter.,,,,,,,
+"3: From 2011 onwards results of current population statistic, before that back calculations based on the 2011 census.",,,,,,,
+"4: GDP (price-adjusted, chain-linked index 2015=100) per person in employment.",,,,,,,
+Gross domestic product (GDP),,,,,,,
+price-adjusted1,%,0.6,0.9,-0.1,1.2,0.2,-1.9
+price- and calendar-adjusted2,%,0.6,0.5,-0.2,0.3,-0.1,-2.2
+at current prices,Euro billion,"3,435.20",843.5,845.6,864.3,881.8,847.4
+per inhabitant3,Euro,"41,346","10,159","10,182","10,402","10,602","10,195"
+"per person in employment1,4",%,-0.3,-0.2,-1,0.4,-0.3,-2.2
